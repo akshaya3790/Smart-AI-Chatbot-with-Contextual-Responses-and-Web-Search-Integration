@@ -1,7 +1,5 @@
 # Smart-AI-Chatbot-with-Contextual-Responses-and-Web-Search-Integration
 
-# 🤖 Smart AI Chatbot with Web Search & Wikipedia Integration
-
 This is an intelligent chatbot project named **Sam** that uses deep learning, sentence embeddings, and external web sources to respond contextually and informatively to user queries. The bot can handle casual conversations, answer fact-based questions using **Wikipedia** or **Google search scraping**, and improve its replies based on intent classification.
 
 ---
