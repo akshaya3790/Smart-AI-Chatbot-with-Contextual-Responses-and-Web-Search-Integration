@@ -25,12 +25,12 @@ This is an intelligent chatbot project named **Sam** that uses deep learning, se
 - Requests
 
 1. **Install dependencies**
-pip install torch torchvision torchaudio
-pip install sentence-transformers
-pip install wikipedia
-pip install googlesearch-python
-pip install beautifulsoup4
-pip install requests
+- pip install torch torchvision torchaudio
+- pip install sentence-transformers
+- pip install wikipedia
+- pip install googlesearch-python
+- pip install beautifulsoup4
+- pip install requests
 
 **Note**
 1) The bot first tries to classify your intent using trained neural network.
